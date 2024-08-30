@@ -1,9 +1,9 @@
 {
-    "imageSrc": "./assets/arbol-decision.jpg",
-    "imageAlt": "Imagen de un Árbol de Decisión",
-    "title": "¿Qué es un Árbol de Decisión?",
+    "imageSrc": "./assets/ml.jpg",
+    "imageAlt": "Imagen de Machine Learning",
+    "title": "¿Qué es el Machine Learning?",
     "description": [
-        "Un árbol de decisión es un modelo utilizado en aprendizaje automático que se organiza en forma de árbol, donde cada nodo interno representa una 'prueba' o 'condición' en un atributo, cada rama representa el resultado de la prueba, y cada hoja representa una clase o una predicción final. Es una herramienta poderosa para la clasificación y la regresión, facilitando la toma de decisiones basada en datos de una manera interpretativa y fácil de entender.",
-        "Los árboles de decisión son ampliamente utilizados en aplicaciones como el diagnóstico médico, la evaluación del riesgo crediticio, y la clasificación de clientes en marketing, debido a su capacidad para manejar tanto datos categóricos como numéricos."
+        "El Machine Learning, o aprendizaje automático, es una rama de la inteligencia artificial que permite a los sistemas aprender y mejorar automáticamente a partir de la experiencia sin ser explícitamente programados para ello. En lugar de seguir instrucciones predefinidas, los modelos de Machine Learning identifican patrones en los datos, hacen predicciones o toman decisiones basadas en esos patrones.",
+        "El Machine Learning se aplica en una amplia gama de sectores, incluyendo la medicina, las finanzas, la tecnología y el marketing. Algunos ejemplos comunes incluyen el reconocimiento de voz, la personalización de recomendaciones de productos, la detección de fraudes, y la conducción autónoma. Gracias a su capacidad para manejar grandes volúmenes de datos y adaptarse a nuevas situaciones, el Machine Learning se ha convertido en una herramienta esencial en la era digital."
     ]
 }

@@ -1,6 +1,6 @@
 [
     {
-        "question": "¿Cuál es el propósito principal de un árbol de decisión en el aprendizaje automático?",
+        "question": "¿Cuál es el propósito principal de un modelo de Machine Learning?",
         "options": [
             "Optimización de datos",
             "Detección de anomalías",
@@ -10,42 +10,42 @@
         "correctAnswer": 2
     },
     {
-        "question": "¿Qué estructura sigue un árbol de decisión?",
+        "question": "¿Qué estructura sigue un modelo de aprendizaje supervisado?",
         "options": [
             "Lineal",
             "Jerárquica",
             "Matriz",
-            "Circular"
+            "Relacional"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "¿Qué representa un conjunto de datos de entrenamiento en Machine Learning?",
+        "options": [
+            "Datos sin etiquetas para agrupar",
+            "Datos de entrada con salidas conocidas",
+            "Un conjunto de datos de prueba",
+            "Datos irrelevantes para el modelo"
         ],
         "correctAnswer": 1
     },
     {
-        "question": "¿Qué representa una hoja en un árbol de decisión?",
+        "question": "¿Qué criterio se usa comúnmente para evaluar la precisión de un modelo de clasificación?",
         "options": [
-            "Un nodo de decisión",
-            "Un camino sin salida",
-            "Una característica o atributo",
-            "Un resultado o predicción final"
-        ],
-        "correctAnswer": 3
-    },
-    {
-        "question": "¿Qué criterio se usa comúnmente para dividir los nodos en un árbol de decisión?",
-        "options": [
-            "Algoritmo K-means",
-            "Índice de Gini o entropía",
-            "Regresión lineal",
-            "Algoritmo de Dijkstra"
+            "Error cuadrático medio (MSE)",
+            "Precisión y recall",
+            "Entropía de Shannon",
+            "Índice de Gini"
         ],
         "correctAnswer": 1
     },
     {
-        "question": "¿Cuál de las siguientes NO es una ventaja de los árboles de decisión?",
+        "question": "¿Cuál de las siguientes NO es una etapa en el proceso de Machine Learning?",
         "options": [
-            "Fácil interpretación",
-            "Manejo de datos categóricos y numéricos",
-            "Fácil de visualizar",
-            "Alta precisión en grandes conjuntos de datos"
+            "Recopilación de datos",
+            "Preprocesamiento de datos",
+            "Entrenamiento del modelo",
+            "Compresión de los datos"
         ],
         "correctAnswer": 3
     }
